@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![](https://github-readme-stats.vercel.app/api?username=shingchi&hide_border=true&theme=vue&show_icons=true&hide=contribs)![](https://github-readme-stats.vercel.app/api/top-langs/?username=shingchi&layout=compact&hide_border=true&theme=vue&show_icons=true)
+
 <!--
 **shingchi/shingchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
